@@ -16,4 +16,4 @@ To complete this analysis, the information was read from csv files into a Jupyte
 
 Further analysis could include the effect of class sizes, rather than school sizes, on student attainment and to further analyze if this is more impactful than the size of the school overall.
 
-#[![Charter Schools Vs Public Schools] (https://www.nctq.org/dms/images/Feb_PTT.png)]
+![Charter Schools Vs Public Schools](https://www.nctq.org/dms/images/Feb_PTT.png)
